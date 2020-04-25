@@ -17,7 +17,7 @@ function loaded() {
 var x = 0;
 
 
-var titleText = [ "j$", "ju!", "juu^", "juus$", "juust#", "juusti(", "juustic^", "juustice$", "M*", "Ma@", "Mad&", "Made)", "Made B%", "Made By$", "Made By S#", "Made By Sl@", "Made By Sle^", "Made By Slee&", "Made By Sleep#", " "
+var titleText = [ "! $", "! j!", "! ja^", "! jay$", "! jayd#", "! jayde(", "! jayden^", "jayden$", "M*", "Ma@", "Mad&", "Made)", "Made B%", "Made By$", "Made By S#", "Made By Sl@", "Made By Sle^", "Made By Slee&", "Made By Sleep#", " "
 ];
 
 function loop() {
